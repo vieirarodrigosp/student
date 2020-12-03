@@ -1,4 +1,4 @@
-package vieirabarbosa.com.br.student;
+package br.com.vieirabarbosa.student;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

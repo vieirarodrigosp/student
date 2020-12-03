@@ -1,4 +1,4 @@
-package vieirabarbosa.com.br.student.DTO;
+package br.com.vieirabarbosa.student.DTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

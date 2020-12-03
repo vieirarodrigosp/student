@@ -1,4 +1,4 @@
-package vieirabarbosa.com.br.student.controller;
+package br.com.vieirabarbosa.student.controller;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
@@ -11,9 +11,9 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import vieirabarbosa.com.br.student.DTO.StudentDTO;
-import vieirabarbosa.com.br.student.business.object.RegisterStudentBO;
-import vieirabarbosa.com.br.student.config.VariablesMocked;
+import br.com.vieirabarbosa.student.DTO.StudentDTO;
+import br.com.vieirabarbosa.student.business.object.RegisterStudentBO;
+import br.com.vieirabarbosa.student.config.VariablesMocked;
 
 @RunWith(SpringRunner.class)
 public class StudentControllerTest {

@@ -1,4 +1,4 @@
-package vieirabarbosa.com.br.student.business.object;
+package br.com.vieirabarbosa.student.business.object;
 
 import static org.junit.Assert.assertEquals;
 
@@ -11,8 +11,8 @@ import org.mockito.InjectMocks;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.util.ReflectionTestUtils;
 
-import vieirabarbosa.com.br.student.DTO.StudentDTO;
-import vieirabarbosa.com.br.student.config.VariablesMocked;
+import br.com.vieirabarbosa.student.DTO.StudentDTO;
+import br.com.vieirabarbosa.student.config.VariablesMocked;
 
 @RunWith(SpringRunner.class)
 public class RegisterStudentBOTest {

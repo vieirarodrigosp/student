@@ -8,7 +8,7 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>vieirabarbosa.com.br</groupId>
+	<groupId>br.com.vieirabarbosa</groupId>
 	<artifactId>student</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>student</name>
@@ -35,6 +35,17 @@
 		    <artifactId>lombok</artifactId>
 		    <version>1.18.12</version>
 		    <scope>provided</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>2.9.2</version>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>2.9.2</version>
 		</dependency>
 	</dependencies>
 

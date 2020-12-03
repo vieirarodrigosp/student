@@ -1,11 +1,11 @@
-package vieirabarbosa.com.br.student.business.object;
+package br.com.vieirabarbosa.student.business.object;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.stereotype.Component;
 
-import vieirabarbosa.com.br.student.DTO.StudentDTO;
+import br.com.vieirabarbosa.student.DTO.StudentDTO;
 
 @Component
 public class RegisterStudentBO {

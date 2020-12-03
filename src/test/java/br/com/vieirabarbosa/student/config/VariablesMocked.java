@@ -1,9 +1,9 @@
-package vieirabarbosa.com.br.student.config;
+package br.com.vieirabarbosa.student.config;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import vieirabarbosa.com.br.student.DTO.StudentDTO;
+import br.com.vieirabarbosa.student.DTO.StudentDTO;
 
 public class VariablesMocked {
 	public static StudentDTO getStudent() {
